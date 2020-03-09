@@ -1,4 +1,8 @@
-# Laravel PHP Framework
+# Nebraska-Business-Training-website
+ 
+ Nebraska-Business Training-website is built on PHP Laravel . This is a training website that would enable sharing video, texts, on a platform so that user can view, add and delete contents. User can easily paste videos or course content onto the website and view them when and where needed 
+
+## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
